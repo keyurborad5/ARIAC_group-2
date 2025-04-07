@@ -87,11 +87,9 @@ pip install opencv-python
     source install/setup.bash
 ```
 ### Submission Package Details
-This package uses the implementation of BLC in the object detection pipeline.
-The zip folder "final_group_2_BLC" contains two packages:
-    - robot_commander_msgs
-    - final_group_2
-### NOTE: Please do colcon build of sister package submited too. If there is any issue while building, try building robot_commander_msgs package first. 
+This package uses the implementation of BLC Basic Logial Camera in the object detection pipeline.
+
+### NOTE: If there is any issue while building, try building robot_commander_msgs package first. 
 **************************************
 ### Instructions to run
 ### NOTE: 
